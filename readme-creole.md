@@ -1,0 +1,1 @@
+Byenveni nan repozitwa Odin Project Recipes mwen! Sa a se premye pwojè mwen kòm yon pati nan kourikoulòm The Odin Project. Objektif pwojè sa a se kreye yon sit entènèt senp ki montre kèk resèt, pandan m ap pratike baz fondamantal nan HTML ak CSS
